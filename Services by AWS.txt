@@ -1,0 +1,18 @@
+Databases
+Amazon RDS (Relational Database Service):Amazon RDS is a managed relational database service that supports multiple database engines including MySQL, PostgreSQL, MariaDB, Oracle, and Microsoft SQL Server. It's ideal for applications that require a traditional relational database with SQL support.
+
+Amazon Aurora: Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud. It offers up to 5x the performance of MySQL and 3x the performance of PostgreSQL. Aurora is best suited for applications that require high performance and availability with a relational model.
+
+Amazon DynamoDB: DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. It's best for applications that need low-latency data access at any scale, such as mobile, web, gaming, ad tech, and IoT applications.
+
+Amazon ElastiCache: ElastiCache is a fully managed in-memory data store and cache service. It supports Redis and Memcached engines. ElastiCache is ideal for real-time applications that require sub-millisecond latency, such as gaming leaderboards, session stores, and real-time analytics.
+
+Amazon DocumentDB: DocumentDB is a fully managed document database service that supports MongoDB workloads. It's best for content management, catalogs, and user profiles where flexible, semi-structured data storage is required.
+
+Amazon Neptune: Neptune is a fully managed graph database service. It's optimized for storing billions of relationships and querying the graph with milliseconds latency. Neptune is ideal for applications like social networking, fraud detection, and recommendation engines.
+
+Amazon Time Stream: Timestream is a fully managed, serverless time series database service. It's designed for IoT and operational applications that collect, store, and process time-series data.
+
+Amazon QLDB: 
+
+Amazon Redshift: for datawarehouse and analytics workload
